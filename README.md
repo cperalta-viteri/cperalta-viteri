@@ -1,20 +1,21 @@
 
-# Christian Peralta
+# Christian Peralta Viteri
 #### I am a biologist pasionate about coding and data science
 
 
+I started coding in Python in 2019, after completing my bachelor's degree. During my MSc in Biochemistry at the University of Geneva, Switzerland, I learned R and strengthened my background in statistical modelling, machine learning, multivariate analysis, and computational approaches for biological research.
 
+During my MSc thesis, my work focused on untargeted metabolomics and data-driven strategies to identify and annotate biomarkers. This was a highly enriching experience that allowed me to develop skills in data science and bioinformatics. To further gain experience in software development, I completed my MSc thesis with a final project: *development of a Python library to automate unsupervised and supervised multivariate analysis*.
 
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Christ14n97&label=Profile%20views&color=0e75b6&style=flat" alt="Christ14n97" /> </p>
+After graduating, I had the opportunity to work at the Faculty of Medicine of the University of Geneva, where I joined the Bioinformatics Support Platform as a junior data scientist. This experience allowed me to broaden my expertise and learn how to analyse bulk RNA-seq and single-cell RNA-seq data. I also received in-depth training in machine learning, including running experiments with neural networks, implementing variational autoencoders in Torch, and conducting benchmarks for different prediction tasks. In addition, I gained practical experience with Docker, high-performance computing, version control, and collaborative software development workflows.
 
-I started coding in Python in 2019, after I finished my bachelor. During my MSc in Biochemistry at the University of Geneva, Switzerland, I have learnt to code in R as well as strengthen my background in statistical modelling, ML, multivariate analysis (MVA) and computer skills for biological research.
+Since 2024, I have been a PhD candidate at the University of Würzburg, Germany. My current work is multidisciplinary. On one hand, I am developing a deep learning model for personalized drug prioritization. This involves model architecture design, data collection, leakage-proof model training, and benchmarking, with the goal of achieving robust generalization to patient-derived samples.
+On the other hand, I am working on the discovery of molecular subtypes in oral squamous cell carcinoma (OSCC). In this context, I analyse bulk RNA-seq, single-cell RNA-seq, and spatial transcriptomics data. I apply statistical learning models, test hypotheses using robust statistical approaches, and interpret the results in their biological context.
 
-For my MSc thesis, I am developing a machine learning-guided workflow to identify biomarkers in metabolomics; acquiring skill in data sciences and bioinformatics. This lead to my current project: *development of a Python library to automatize unsupervised and supervised multivariate analysis*.
+Overall, my work is tailored toward translational impact, aiming to help OSCC patients benefit from more precise drug recommendations and a better understanding of the disease.
 
-Since december 2021 I am working also as a freelancer at Fiverr, where I am developping my personal brand: CPAnalytics. You can find my profile in the last section :)
+I hope to share some of my latest work soon.
 
-Currently, I am seeking of new projects, preferable, at the interface between IT and life science, where I can make use and refine my computational skills.
 
 ## Resume
 
@@ -37,7 +38,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
     * numpy
     * pandas
     * sckit-learn
-    * tensorflow
+    * PyTorch
     * plotly
     * seaborn
 * :chart_with_upwards_trend: Machine Learning
@@ -59,7 +60,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
    | PLS-RA | PLS-DA |
 
 * :bar_chart: R
-    * tidyverse
+    * Bioconductor
     * survival
     * ggplot2
     * caret
@@ -68,6 +69,6 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ## Contact me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/christian-peralta-viteri-71a81b16b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/christian_94_97?up_rollout=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/christian-peralta-viteri-71a81b16b//)
 
 
