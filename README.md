@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Christ14n97&label=Profile%20views&color=0e75b6&style=flat" alt="Christ14n97" /> </p>
 
 # Christian Peralta Viteri
 #### I am a biologist pasionate about coding and data science
