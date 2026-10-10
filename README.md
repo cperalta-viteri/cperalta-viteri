@@ -34,6 +34,8 @@ I hope to share some of my latest work soon.
    * 2022: [MSc thesis, cheMLearning Python Library](https://github.com/cperalta-viteri/cheMLearning)
    * 2023: [Democratizing single-cell RNAseq analysis](https://github.com/cperalta-viteri/wyss_project/)
    * 2023: [RNAseq pipeline](https://github.com/cperalta-viteri/rna_seq_pipeline)
+   * 2026: [NELLY: deep learning method for interpretable personalized drug prioritization](https://github.com/cperalta-viteri/NELLY)
+   * 2026: [Random Walk for biomedical applications](https://github.com/cperalta-viteri/RandomWalk_Biomedical)
 
 ## Skills 
 
