@@ -26,12 +26,14 @@ I hope to share some of my latest work soon.
 
 - 🔭 I’m currently working on this page to showcase my projects which includes:
 
-   * 2019: [Python for Life Science](https://github.com/Christ14n97/Python_4_LifeScience_2019)
-   * 2020: [R-Package Development](https://github.com/Christ14n97/R_package_2020)
-   * 2021: [BASH Mastery](https://github.com/Christ14n97/Bash_mastery_2021)
-   * 2022: [Machine Learning Project](https://github.com/Christ14n97/Machine_Learning_Competition_2022)
-   * 2022: [MSc thesis, Untargeted Metabolomics - Multivariate Analysis Workflow](https://github.com/Christ14n97/MSc_Untarg_Metabo_Workflow)
-   * 2022: [MSc thesis, cheMLearning Python Library](https://github.com/Christ14n97/cheMLearning)
+   * 2019: [Python for Life Science](https://github.com/cperalta-viteri/Python_4_LifeScience_2019)
+   * 2020: [R-Package Development](https://github.com/cperalta-viteri/R_package_2020)
+   * 2021: [BASH Mastery](https://github.com/cperalta-viteri/Bash_mastery_2021)
+   * 2022: [Machine Learning Project](https://github.com/cperalta-viteri/Machine_Learning_Competition_2022)
+   * 2022: [MSc thesis, Untargeted Metabolomics - Multivariate Analysis Workflow](https://github.com/cperalta-viteri/MSc_Untarg_Metabo_Workflow)
+   * 2022: [MSc thesis, cheMLearning Python Library](https://github.com/cperalta-viteri/cheMLearning)
+   * 2023: [Democratizing single-cell RNAseq analysis](https://github.com/cperalta-viteri/wyss_project/)
+   * 2023: [RNAseq pipeline](https://github.com/cperalta-viteri/rna_seq_pipeline)
 
 ## Skills 
 
